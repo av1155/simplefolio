@@ -1,12 +1,10 @@
 # Simplefolio ⚡️
 
-## A minimal portfolio template for Developers
-
 ## Status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/80c66205-9a37-4096-ac5b-48a55f38b8ad/deploy-status)](https://app.netlify.com/sites/andrea-venti/deploys)
 
-## Template Instructions
+## Instructions
 
 ### Step 1 - STRUCTURE
 
